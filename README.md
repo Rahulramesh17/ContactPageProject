@@ -16,3 +16,8 @@ Project Features:
 - Component-based architecture
 - Clean and simple UI
 - Deployed using Vercel
+
+## Scope for Improvement
+- Add form validation
+- Connect backend API
+- Store form data in database
